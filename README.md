@@ -1,6 +1,6 @@
 # chonamdoo/homebrew-tap
 
-Homebrew casks for [AgentDeck](https://github.com/chonamdoo/AgentDeck), the native macOS client for Herdr (Apple Silicon, macOS 14+).
+Homebrew casks for [AgentDeck](https://github.com/chonamdoo/AgentDeck-releases), the native macOS client for Herdr (Apple Silicon, macOS 14+).
 
 ```sh
 brew install --cask chonamdoo/tap/agentdeck
