@@ -1,6 +1,6 @@
 cask "agentdeck" do
-  version "0.1.15"
-  sha256 "2b2abd6103f4943a3507a984e31ddbe9dabc80278446ec79efc48f6d352d011c"
+  version "0.1.16"
+  sha256 "828c20c8034ec08b6a1c92eaed2de57351fff23e3354a7da0e4b5935677f7ed8"
 
   url "https://github.com/chonamdoo/AgentDeck-releases/releases/download/v#{version}/AgentDeck-#{version}-apple-silicon.dmg"
   name "AgentDeck"
